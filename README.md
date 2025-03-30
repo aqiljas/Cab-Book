@@ -1,6 +1,6 @@
-Spring Boot - Cab Booking System
+Cab Booking System
 
-This is a Cab Booking System Website using Spring Boot.
+
 
 The Cab Booking System (CBS) is a web-based application designed to streamline and enhance cab booking services. Tailored for administrators, drivers, and customers, the system provides a user-friendly interface to manage bookings, track rides, and handle billing efficiently.
 
